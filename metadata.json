@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge AI - Placement Preparation & Verification Platform",
+  "description": "AI-powered placement preparation platform that parses resumes, identifies role skill gaps, generates targeted coding tasks, and verifies external submissions with correctness and anti-plagiarism checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
